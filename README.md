@@ -4,12 +4,20 @@ Através da inserção dos dados do lado do cliente, esses dados serão: inserid
 
 ---
 
-Para implementação, foi abordado o conceito de "CRUD" utilizado com base na arquitetura em camadas no estilo MVC.
+Para implementação, foi abordado o conceito de "CRUD" utilizado como base a arquitetura em camadas no estilo MVC.
 
-O projeto foi trabalhado pela IDE da microsoft "Visual Studio Code" utlizando as seguintes ferramentas:
+O projeto foi elaborado através da IDE da microsoft "Visual Studio Code" e também o PHPmyAdmin.
+
+Foram utilizadas as seguintes linguagens:
 
 - HTML
 - CSS
 - JavaScript
 - PHP
 - MySQL
+
+---
+
+
+
+
